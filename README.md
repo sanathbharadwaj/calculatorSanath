@@ -1,3 +1,8 @@
+#Calculator Demo app
+
+This is the demo calculator app as part of the assignment.
+
+
 # java-tomcat-maven-example
 
 This is an example ready-to-deploy java web application built for Tomcat using Maven and webapp-runner.
